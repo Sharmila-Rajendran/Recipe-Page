@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(246, 245, 200);
+}
+
+nav{
+    background-color: darkcyan;
+    padding: 40px;
+}
+
+nav h1{
+    background-color: darkcyan;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border: 1px solid transparent;
+    margin: 40px 80px;
+    box-shadow: 5px 5px 5px 5px rgb(208, 81, 81);
+
+}
+.sec1{
+    border: 1px solid transparent;
+    background-color: white;
+    padding: 30px;
+}
+
+.sec1 p{
+    font-size: 20px;
+}
+
+.sec2{
+    margin: 20px;
+    padding: 20px;
+}
+
+.sec2 h1{
+    color: rgb(231, 88, 112);
+    font-size: 40px;
+}
+
+.sec2 li{
+    font-size: 20px;
+}
+
+.sec3{
+    margin: 20px;
+    padding: 20px;
+}
+
+.sec3 h1{
+    color: rgb(223, 70, 96);
+    font-size: 40px;
+}
+
+.sec3 li{
+    font-size: 20px;
+}
